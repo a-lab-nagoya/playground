@@ -35,7 +35,7 @@
 - [ ] Task
 
 ## Work M
-- [ ] Task
+- [x] Task
 
 ## Work N
 - [ ] Task
