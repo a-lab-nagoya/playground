@@ -5,7 +5,7 @@
 - [x] Task
 
 ## Work C
-- [ ] Task
+- [x] Task
 
 ## Work D
 - [ ] Task
