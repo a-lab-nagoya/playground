@@ -38,7 +38,7 @@
 - [x] Task
 
 ## Work N
-- [ ] Task
+- [x] Task
 
 ## Work O
 - [x] Task
