@@ -32,7 +32,7 @@
 - [ ] Task
 
 ## Work L
-- [ ] Task
+- [x] Task
 
 ## Work M
 - [x] Task
