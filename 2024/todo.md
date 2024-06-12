@@ -23,7 +23,7 @@
 - [ ] Task
 
 ## Work I
-- [ ] Task
+- [x] Task
 
 ## Work J
 - [ ] Task
