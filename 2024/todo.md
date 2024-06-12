@@ -8,7 +8,7 @@
 - [ ] Task
 
 ## Work D
-- [ ] Task
+- [x] Task
 
 ## Work E
 - [ ] Task
