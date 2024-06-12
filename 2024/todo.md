@@ -14,7 +14,7 @@
 - [ ] Task
 
 ## Work F
-- [ ] Task
+- [x] Task
 
 ## Work G
 - [ ] Task
