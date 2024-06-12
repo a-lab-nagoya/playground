@@ -44,7 +44,7 @@
 - [x] Task
 
 ## Work P
-- [ ] Task
+- [x] Task
 
 ## Work Q
 - [ ] Task
