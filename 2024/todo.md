@@ -2,7 +2,7 @@
 - [x] Task
 
 ## Work B
-- [ ] Task
+- [x] Task
 
 ## Work C
 - [ ] Task
