@@ -26,7 +26,7 @@
 - [ ] Task
 
 ## Work J
-- [ ] Task
+- [x] Task
 
 ## Work K
 - [ ] Task
